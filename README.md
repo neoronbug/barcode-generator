@@ -1,4 +1,4 @@
-# barcode-generator
+# Barcode-Generator
 This little application is created to create Barcode with any provided number and product name as well as price.... 
 
 ##  PreRequesites :
